@@ -20,4 +20,19 @@
         <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. 
         O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
     </body>
-</html>
+</html>header {
+    background: #BBBBBB;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
